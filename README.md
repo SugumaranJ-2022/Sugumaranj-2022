@@ -1,13 +1,6 @@
 <!-- ============================================================ -->
 <!--   SUGUMARAN J — MODERN 3D / GLASSMORPHISM GITHUB PROFILE     -->
 <!-- ============================================================ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,20:0F172A,50:1E3A8A,80:2563EB,100:38BDF8&text=SUGUMARAN%20J&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
-
-</div>
-
-<br/>
 
 <!-- ========== MODERN HERO GRID ========== -->
 <table width="100%" style="border-collapse:separate; border-spacing:0 10px;">
@@ -37,13 +30,11 @@ style="border-radius:50%; border:3px solid #38BDF8; box-shadow:0 0 25px rgba(56,
 
 <div style="padding:20px; border-radius:18px; background:#0B1220; box-shadow:0 10px 30px rgba(0,0,0,0.3);">
 
-### 👋 Hey, I'm **Sugumaran J**
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=false&vCenter=true&multiline=true&width=650&height=100&lines=Full+Stack+Developer+%7C+React+%2B+Python;AI+Web+App+Developer;MCA+Student+%40+SRM+Institute+of+Science+and+Technology;Building+Scalable+Real-World+Products" />
 
 <br/>
 
-💡 **Code. Create. Deploy. Impact.**
+🎯 **9.92 CGPA** in MCA · **8+** full-stack projects shipped · **2+** AI-powered apps live in production
 
 <br/>
 
