@@ -32,7 +32,7 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 20px 0;">
   <tr style="border: none;">
     <td align="center" width="38%" style="border: none; padding: 15px; vertical-align: middle;">
-      <img src="https://github.com/SugumaranJ-2022.png" width="220" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56,189,248,0.5); object-fit: cover;" alt="Sugumaran J" />
+      <img src="assets/images/portfolio_home%20page.png" width="220" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56,189,248,0.5); object-fit: cover;" alt="Sugumaran J" />
       <br/><br/>
       <img src="https://img.shields.io/badge/📍-Chennai%2C%20India-38BDF8?style=for-the-badge" alt="Location" />
       <br/>
