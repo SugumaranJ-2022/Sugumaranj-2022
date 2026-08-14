@@ -41,18 +41,14 @@
       <img src="https://komarev.com/ghpvc/?username=SugumaranJ-2022&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
     <td width="65%" style="border: none; padding: 15px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; vertical-align: middle; line-height: 1.6;">
-      <h3>👋 Welcome to my coding playground!</h3>
-      <p>
-        I am an <strong>MCA Student</strong> at <strong>SRM Institute of Science and Technology</strong> with a passion for building next-generation web applications. I bridge the gap between creative frontends and robust, intelligent backend systems.
-      </p>
-      <ul>
-        <li>🎯 Achieved a stellar <strong>9.92 CGPA</strong> in MCA coursework</li>
-        <li>🚀 Shipped <strong>8+</strong> full-stack applications</li>
-        <li>🤖 Deployed <strong>2+</strong> AI-powered utilities live in production</li>
-      </ul>
-      <p>
-        My goal is to constantly refine my architecture decisions, learn modern design patterns, and write clean, maintainable code.
-      </p>
+<h3>👋 Welcome to my coding playground!</h3>
+<p>I am an <strong>MCA Student</strong> at <strong>SRM Institute of Science and Technology</strong> with a passion for building next-generation web applications. I bridge the gap between creative frontends and robust, intelligent backend systems.</p>
+<ul>
+<li>🎯 Achieved a stellar <strong>9.92 CGPA</strong> in MCA coursework</li>
+<li>🚀 Shipped <strong>8+</strong> full-stack applications</li>
+<li>🤖 Deployed <strong>2+</strong> AI-powered utilities live in production</li>
+</ul>
+<p>My goal is to constantly refine my architecture decisions, learn modern design patterns, and write clean, maintainable code.</p>
     </td>
   </tr>
 </table>
@@ -64,12 +60,8 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
   <tr style="border: none;">
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
-      <p>
-        I build modern, responsive, full-stack web applications — from pixel-perfect frontends to scalable backends and AI-powered features. I care about clean code, real problem-solving, and shipping things that actually work.
-      </p>
-      <p>
-        <strong>Current Exploration:</strong> Node.js, Next.js, Docker & System Design to build reliable, high-performance backends.
-      </p>
+<p>I build modern, responsive, full-stack web applications — from pixel-perfect frontends to scalable backends and AI-powered features. I care about clean code, real problem-solving, and shipping things that actually work.</p>
+<p><strong>Current Exploration:</strong> Node.js, Next.js, Docker & System Design to build reliable, high-performance backends.</p>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <img src="assets/images/about.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="About Me Illustration" />
@@ -94,16 +86,16 @@ Mindset:     Learn → Build → Improve → Repeat
       <img src="assets/images/skills.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Skills Illustration" />
     </td>
     <td width="65%" valign="middle" style="border: none;">
-      <div align="center">
-        <h4>💻 Languages</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,java,php,c&theme=dark" alt="Languages" /></a>
-        <h4>🎨 Frontend</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,tailwind&theme=dark" alt="Frontend" /></a>
-        <h4>⚙️ Backend & Database</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,mysql,mongodb&theme=dark" alt="Backend & DB" /></a>
-        <h4>🤖 AI, DevOps & Tools</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openai,aws,docker,git,github,vscode,postman,netlify,vercel&theme=dark" alt="AI & Tools" /></a>
-      </div>
+<div align="center">
+<h4>💻 Languages</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,java,php,c&theme=dark" alt="Languages" /></a>
+<h4>🎨 Frontend</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,tailwind&theme=dark" alt="Frontend" /></a>
+<h4>⚙️ Backend & Database</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,mysql,mongodb&theme=dark" alt="Backend & DB" /></a>
+<h4>🤖 AI, DevOps & Tools</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openai,aws,docker,git,github,vscode,postman,netlify,vercel&theme=dark" alt="AI & Tools" /></a>
+</div>
     </td>
   </tr>
 </table>
@@ -202,19 +194,18 @@ Mindset:     Learn → Build → Improve → Repeat
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
   <tr style="border: none;">
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
-      <h4>🚀 Python Full Stack Developer Intern — AICTE</h4>
-      <p><code>Jan 2026 – Mar 2026</code></p>
-      <ul>
-        <li>Built and optimized full-stack applications, REST APIs, and scalable backend services.</li>
-        <li>Leveraged <strong>Python</strong>, <strong>Django</strong>, and <strong>MySQL</strong> to construct database schemas.</li>
-      </ul>
-      
-      <h4>💻 Web Developer Intern — CADPOINT</h4>
-      <p><code>May 2024 – Jun 2024</code></p>
-      <ul>
-        <li>Elevated UI responsiveness and shipped production-ready interactive features.</li>
-        <li>Structured codebases using <strong>React.js</strong> and <strong>Flask</strong> APIs.</li>
-      </ul>
+<h4>🚀 Python Full Stack Developer Intern — AICTE</h4>
+<p><code>Jan 2026 – Mar 2026</code></p>
+<ul>
+<li>Built and optimized full-stack applications, REST APIs, and scalable backend services.</li>
+<li>Leveraged <strong>Python</strong>, <strong>Django</strong>, and <strong>MySQL</strong> to construct database schemas.</li>
+</ul>
+<h4>💻 Web Developer Intern — CADPOINT</h4>
+<p><code>May 2024 – Jun 2024</code></p>
+<ul>
+<li>Elevated UI responsiveness and shipped production-ready interactive features.</li>
+<li>Structured codebases using <strong>React.js</strong> and <strong>Flask</strong> APIs.</li>
+</ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <img src="assets/images/experience.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Experience Illustration" />
@@ -261,12 +252,12 @@ Mindset:     Learn → Build → Improve → Repeat
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
   <tr style="border: none;">
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
-      <h3>📜 Certifications & Achievements</h3>
-      <ul>
-        <li>Outstanding Academic Performance Award (MCA — <strong>9.92 CGPA</strong>)</li>
-        <li>AICTE Virtual Internship Certificate — Python Full Stack Development</li>
-        <li>CADPOINT Intern Certification — React & Python Web Development</li>
-      </ul>
+<h3>📜 Certifications & Achievements</h3>
+<ul>
+<li>Outstanding Academic Performance Award (MCA — <strong>9.92 CGPA</strong>)</li>
+<li>AICTE Virtual Internship Certificate — Python Full Stack Development</li>
+<li>CADPOINT Intern Certification — React & Python Web Development</li>
+</ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <img src="assets/images/certifications.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Certifications Illustration" />
@@ -329,22 +320,20 @@ Mindset:     Learn → Build → Improve → Repeat
       <img src="assets/images/contact.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Contact Illustration" />
     </td>
     <td width="65%" valign="middle" style="border: none;" align="center">
-      <a href="https://github.com/SugumaranJ-2022">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://www.linkedin.com/in/sugumaran-j-a12879254/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:sugumaranjayabalan@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <a href="https://sugumaranj.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-      </a>
-      
-      <br/><br/>
-      
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Always+open+to+collaboration+%26+opportunities" alt="Footer Typing SVG" />
+<a href="https://github.com/SugumaranJ-2022">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/sugumaran-j-a12879254/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sugumaranjayabalan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://sugumaranj.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Always+open+to+collaboration+%26+opportunities" alt="Footer Typing SVG" />
     </td>
   </tr>
 </table>
