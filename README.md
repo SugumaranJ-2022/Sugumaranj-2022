@@ -12,8 +12,8 @@
 
 <div style="padding:20px; border-radius:18px; background:#0B1220; box-shadow:0 10px 30px rgba(0,0,0,0.3);">
 
-<img src="https://sugumaranj.netlify.app/data/images/default.png" width="400"
-style="border-radius:50%; border:3px solid #38BDF8; box-shadow:0 0 25px rgba(56,189,248,0.5);" />
+<img src="./profile.png" width="400"
+style="border-radius:50%; border:3px solid #38BDF8; box-shadow:0 0 25px rgba(56,189,248,0.5); object-fit:cover;" />
 
 <br/><br/>
 
@@ -30,7 +30,8 @@ style="border-radius:50%; border:3px solid #38BDF8; box-shadow:0 0 25px rgba(56,
 
 <div style="padding:20px; border-radius:18px; background:#0B1220; box-shadow:0 10px 30px rgba(0,0,0,0.3);">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=false&vCenter=true&multiline=true&width=650&height=100&lines=Full+Stack+Developer+%7C+React+%2B+Python;AI+Web+App+Developer;MCA+Student+%40+SRM+Institute+of+Science+and+Technology;Building+Scalable+Real-World+Products" />
+### `Full Stack Developer` · `React + Python` · `AI Web App Developer`
+##### MCA Student @ SRM Institute of Science and Technology
 
 <br/>
 
