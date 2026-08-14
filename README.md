@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="assets/images/header_banner.jpg" width="100%" alt="Header Banner" style="border-radius: 12px;" />
+  <img src="assets/images/banner.png" width="100%" alt="Header Banner" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">⚡ Sugumaran J ⚡</h1>
