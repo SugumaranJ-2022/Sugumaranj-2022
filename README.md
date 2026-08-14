@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="assets/images/header_banner.jpg" width="100%" alt="Header Banner" style="border-radius: 12px; max-width: 800px;" />
+  <img src="assets/images/header_banner.jpg" width="600" alt="Header Banner" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">⚡ Sugumaran J ⚡</h1>
@@ -31,8 +31,8 @@
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 20px 0;">
   <tr style="border: none;">
-    <td align="center" width="38%" style="border: none; padding: 15px; vertical-align: middle;">
-      <img src="assets/images/portfolio_home%20page.png" width="220" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56,189,248,0.5); object-fit: cover;" alt="Sugumaran J" />
+    <td align="center" width="35%" style="border: none; padding: 15px; vertical-align: middle;">
+      <img src="assets/images/portfolio_home%20page.png" width="180" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56,189,248,0.5); object-fit: cover;" alt="Sugumaran J" />
       <br/><br/>
       <img src="https://img.shields.io/badge/📍-Chennai%2C%20India-38BDF8?style=for-the-badge" alt="Location" />
       <br/>
@@ -40,7 +40,7 @@
       <br/>
       <img src="https://komarev.com/ghpvc/?username=SugumaranJ-2022&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
-    <td width="62%" style="border: none; padding: 15px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; vertical-align: middle; line-height: 1.6;">
+    <td width="65%" style="border: none; padding: 15px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; vertical-align: middle; line-height: 1.6;">
       <h3>👋 Welcome to my coding playground!</h3>
       <p>
         I am an <strong>MCA Student</strong> at <strong>SRM Institute of Science and Technology</strong> with a passion for building next-generation web applications. I bridge the gap between creative frontends and robust, intelligent backend systems.
@@ -61,46 +61,52 @@
 
 ## ⚡ About Me
 
-<p align="center">
-  <img src="assets/images/about.jpg" width="100%" alt="About Me Section Banner" style="border-radius: 8px;" />
-</p>
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
+  <tr style="border: none;">
+    <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
+      <p>
+        I build modern, responsive, full-stack web applications — from pixel-perfect frontends to scalable backends and AI-powered features. I care about clean code, real problem-solving, and shipping things that actually work.
+      </p>
+      <p>
+        <strong>Current Exploration:</strong> Node.js, Next.js, Docker & System Design to build reliable, high-performance backends.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="assets/images/about.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="About Me Illustration" />
+    </td>
+  </tr>
+</table>
 
 ```yaml
 Role:        Junior Full Stack Developer
 Education:   MCA @ SRM Institute of Science and Technology (2025 - 2027)
 Focus:       React.js | Python/Flask | REST APIs | AI Integration
 Mindset:     Learn → Build → Improve → Repeat
-Currently:   Exploring Node.js, Next.js, Docker & System Design
 ```
-
-I build modern, responsive, full-stack web applications — from pixel-perfect frontends to scalable backends and AI-powered features. I care about clean code, real problem-solving, and shipping things that actually work.
 
 ---
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="assets/images/skills.jpg" width="100%" alt="Skills Section Banner" style="border-radius: 8px;" />
-</p>
-
-<div align="center">
-
-### 💻 Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,java,php,c&theme=dark" alt="Languages" /></a>
-
-### 🎨 Frontend Development
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,tailwind&theme=dark" alt="Frontend" /></a>
-
-### ⚙️ Backend & APIs
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,php&theme=dark" alt="Backend" /></a>
-
-### 🗄️ Database & Cloud
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker&theme=dark" alt="Database" /></a>
-
-### 🤖 AI, Tools & Platforms
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openai,netlify,vercel,git,github,vscode,postman&theme=dark" alt="Tools" /></a>
-
-</div>
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
+  <tr style="border: none;">
+    <td width="35%" align="center" valign="middle" style="border: none; padding-right: 20px;">
+      <img src="assets/images/skills.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Skills Illustration" />
+    </td>
+    <td width="65%" valign="middle" style="border: none;">
+      <div align="center">
+        <h4>💻 Languages</h4>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,java,php,c&theme=dark" alt="Languages" /></a>
+        <h4>🎨 Frontend</h4>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,tailwind&theme=dark" alt="Frontend" /></a>
+        <h4>⚙️ Backend & Database</h4>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,mysql,mongodb&theme=dark" alt="Backend & DB" /></a>
+        <h4>🤖 AI, DevOps & Tools</h4>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openai,aws,docker,git,github,vscode,postman,netlify,vercel&theme=dark" alt="AI & Tools" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -110,15 +116,14 @@ I build modern, responsive, full-stack web applications — from pixel-perfect f
 | **🎨 Frontend** | React.js · HTML5 · CSS3 · Bootstrap · Tailwind CSS · Vite | ⭐⭐⭐⭐⭐ |
 | **⚙️ Backend** | Flask · Node.js · Express · PHP · REST APIs · Auth | ⭐⭐⭐⭐☆ |
 | **🗄️ Databases** | MySQL · MongoDB · Data Modeling | ⭐⭐⭐⭐☆ |
-| **🤖 AI Integration**| OpenAI API · Prompt Engineering · RAG (learning) | ⭐⭐⭐⭐☆ |
-| **☁️ DevOps & Tools**| Git · GitHub · Netlify · Vercel · Docker · AWS · Postman | ⭐⭐⭐⭐☆ |
+| **🤖 AI & Cloud**| OpenAI API · Netlify · Vercel · AWS · Docker (learning) | ⭐⭐⭐⭐☆ |
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="assets/images/projects.jpg" width="100%" alt="Projects Section Banner" style="border-radius: 8px;" />
+  <img src="assets/images/projects.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Projects Section Banner" />
 </p>
 
 <table width="100%" style="border-collapse: collapse; border: none; margin: 20px 0;">
@@ -188,77 +193,86 @@ I build modern, responsive, full-stack web applications — from pixel-perfect f
       </p>
     </td>
   </tr>
-  <tr style="border: none;">
-    <!-- Project 5 -->
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <h3>🔍 Code Quality & Evaluation</h3>
-      <p>AI-assisted static code quality evaluator with multi-language analysis and syntax linting support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/Pylint-0052CC?style=flat-square&logo=python&logoColor=white" alt="Pylint" />
-        <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=postman&logoColor=white" alt="API" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Dev" />
-      </p>
-    </td>
-    <!-- Project 6 -->
-    <td width="50%" valign="top" style="border: none; padding: 15px;">
-      <h3>🚗 Car Rental Management</h3>
-      <p>Robust vehicle booking management platform with administrative dashboard, statistics, and booking history.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" alt="Dev" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
 
 ## 💼 Professional Experience
 
-<p align="center">
-  <img src="assets/images/experience.jpg" width="100%" alt="Experience Section Banner" style="border-radius: 8px;" />
-</p>
-
-#### 🚀 **Python Full Stack Developer Intern** — *AICTE / EduSkills Virtual Internship*
-> `Jan 2026 – Mar 2026`
-- Built and optimized full-stack applications, REST APIs, and scalable backend services.
-- Leveraged **Python**, **Django**, and **MySQL** to construct schemas and handle secure operations.
-
-#### 💻 **Web Developer Intern** — *CADPOINT Engineering Solutions, Chennai*
-> `May 2024 – Jun 2024`
-- Elevated UI responsiveness and shipped production-ready interactive features.
-- Structured codebases using **React.js** for frontend views and **Flask** for light API layers.
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
+  <tr style="border: none;">
+    <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
+      <h4>🚀 Python Full Stack Developer Intern — AICTE</h4>
+      <p><code>Jan 2026 – Mar 2026</code></p>
+      <ul>
+        <li>Built and optimized full-stack applications, REST APIs, and scalable backend services.</li>
+        <li>Leveraged <strong>Python</strong>, <strong>Django</strong>, and <strong>MySQL</strong> to construct database schemas.</li>
+      </ul>
+      
+      <h4>💻 Web Developer Intern — CADPOINT</h4>
+      <p><code>May 2024 – Jun 2024</code></p>
+      <ul>
+        <li>Elevated UI responsiveness and shipped production-ready interactive features.</li>
+        <li>Structured codebases using <strong>React.js</strong> and <strong>Flask</strong> APIs.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="assets/images/experience.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Experience Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Education & Certifications
 
-<p align="center">
-  <img src="assets/images/education.jpg" width="100%" alt="Education Section Banner" style="border-radius: 8px;" />
-</p>
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
+  <tr style="border: none;">
+    <td width="35%" align="center" valign="middle" style="border: none; padding-right: 20px;">
+      <img src="assets/images/education.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Education Illustration" />
+    </td>
+    <td width="65%" valign="middle" style="border: none;">
+      <table width="100%" style="line-height: 1.6;">
+        <tr>
+          <th>Degree</th>
+          <th>Institution / University</th>
+          <th>Duration</th>
+          <th>Score</th>
+        </tr>
+        <tr>
+          <td><strong>MCA</strong></td>
+          <td>SRM Institute of Science & Tech</td>
+          <td><code>2025 – 2027</code></td>
+          <td><strong>CGPA 9.92</strong></td>
+        </tr>
+        <tr>
+          <td><strong>BCA</strong></td>
+          <td>Guru Nanak College</td>
+          <td><code>2022 – 2025</code></td>
+          <td><strong>CGPA 8.39</strong></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-| Degree | Institution / University | Duration | Score |
-|---|---|---|---|
-| **Master of Computer Applications (MCA)** | SRM Institute of Science & Technology (KTR) | `2025 – 2027` | **CGPA 9.92** |
-| **Bachelor of Computer Applications (BCA)** | Guru Nanak College (Autonomous), Chennai | `2022 – 2025` | **CGPA 8.39** |
+<br/>
 
----
-
-<p align="center">
-  <img src="assets/images/certifications.jpg" width="100%" alt="Certifications Section Banner" style="border-radius: 8px;" />
-</p>
-
-### 📜 Certifications & Achievements
-- **AICTE Virtual Internship Certificate** — Python Full Stack Development
-- **CADPOINT Intern Certification** — React & Python Web Development
-- Outstanding Academic Performance Award (MCA — **9.92 CGPA**)
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
+  <tr style="border: none;">
+    <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
+      <h3>📜 Certifications & Achievements</h3>
+      <ul>
+        <li>Outstanding Academic Performance Award (MCA — <strong>9.92 CGPA</strong>)</li>
+        <li>AICTE Virtual Internship Certificate — Python Full Stack Development</li>
+        <li>CADPOINT Intern Certification — React & Python Web Development</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="assets/images/certifications.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Certifications Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -303,37 +317,37 @@ I build modern, responsive, full-stack web applications — from pixel-perfect f
 - [ ] Master the **React + Node.js + Next.js** ecosystem
 - [ ] Ship an **AI SaaS product** end-to-end
 - [ ] Solve **500+** DSA problems
-- [ ] Contribute meaningfully to **open source**
 - [ ] Land a **Software Engineer** role at a product-based company
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <img src="assets/images/contact.jpg" width="100%" alt="Contact Section Banner" style="border-radius: 8px;" />
-</p>
-
-<div align="center">
-
-<a href="https://github.com/SugumaranJ-2022">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/sugumaran-j-a12879254/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:sugumaranjayabalan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://sugumaranj.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Always+open+to+collaboration+%26+opportunities" alt="Footer Typing SVG" />
-
-</div>
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
+  <tr style="border: none;">
+    <td width="35%" align="center" valign="middle" style="border: none; padding-right: 20px;">
+      <img src="assets/images/contact.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Contact Illustration" />
+    </td>
+    <td width="65%" valign="middle" style="border: none;" align="center">
+      <a href="https://github.com/SugumaranJ-2022">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://www.linkedin.com/in/sugumaran-j-a12879254/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:sugumaranjayabalan@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      <a href="https://sugumaranj.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      </a>
+      
+      <br/><br/>
+      
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Always+open+to+collaboration+%26+opportunities" alt="Footer Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:38BDF8&height=150&section=footer&text=Dream%20Big.%20Build%20Bigger.&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" alt="Capsule Footer" />
