@@ -35,17 +35,17 @@
       <img src="https://komarev.com/ghpvc/?username=SugumaranJ-2022&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
     </td>
     <td width="68%" style="border: none; padding: 15px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; vertical-align: middle; line-height: 1.6;">
-      <h3>👋 Welcome to my coding playground!</h3>
-      <p>I am a <strong>Junior Full Stack & Web Developer</strong> and <strong>MCA Student</strong> at <strong>SRM Institute of Science and Technology</strong>. I build modern, resilient web applications that unite responsive frontends, scalable backends, and cutting-edge AI integrations.</p>
-      <ul>
-        <li>🎯 Maintained a stellar <strong>9.92 CGPA</strong> in MCA coursework</li>
-        <li>🚀 Engineered and shipped <strong>12+</strong> full-stack, frontend & AI applications</li>
-        <li>📜 Published & presented research at the <strong>CIMA 2026 International Conference</strong></li>
-        <li>🏆 Honored with the <strong>Good Performance Award</strong> during IndiWebPros Internship</li>
-        <li>💼 Completed <strong>5</strong> industry & virtual internships across Full Stack, AI & Cloud</li>
-        <li>📜 Earned <strong>10+</strong> certifications across Microsoft, OpenAI & MongoDB</li>
-      </ul>
-      <p><em>"Building scalable systems with clean architecture, modern design patterns, and purposeful engineering."</em></p>
+<h3>👋 Welcome to my coding playground!</h3>
+<p>I am a <strong>Junior Full Stack & Web Developer</strong> and <strong>MCA Student</strong> at <strong>SRM Institute of Science and Technology</strong>. I build modern, resilient web applications that unite responsive frontends, scalable backends, and cutting-edge AI integrations.</p>
+<ul>
+<li>🎯 Maintained a stellar <strong>9.92 CGPA</strong> in MCA coursework</li>
+<li>🚀 Engineered and shipped <strong>12+</strong> full-stack, frontend & AI applications</li>
+<li>📜 Published & presented research at the <strong>CIMA 2026 International Conference</strong></li>
+<li>🏆 Honored with the <strong>Good Performance Award</strong> during IndiWebPros Internship</li>
+<li>💼 Completed <strong>5</strong> industry & virtual internships across Full Stack, AI & Cloud</li>
+<li>📜 Earned <strong>10+</strong> certifications across Microsoft, OpenAI & MongoDB</li>
+</ul>
+<p><em>"Building scalable systems with clean architecture, modern design patterns, and purposeful engineering."</em></p>
     </td>
   </tr>
 </table>
@@ -57,9 +57,9 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
   <tr style="border: none;">
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
-      <p>I build modern, responsive, full-stack web applications — from pixel-perfect, reactive client interfaces to scalable REST APIs and intelligent AI systems. I care deeply about performance optimization, clean code principles, and engineering real-world software that delivers tangible value.</p>
-      <p>My tech journey encompasses building e-commerce platforms, AI productivity suites, static code analysis engines with AST parsing, and university-scale scheduling platforms.</p>
-      <p><strong>Current Deep Dives:</strong> Next.js, Node.js microservices, Docker containerization, AWS cloud architecture, and System Design.</p>
+<p>I build modern, responsive, full-stack web applications — from pixel-perfect, reactive client interfaces to scalable REST APIs and intelligent AI systems. I care deeply about performance optimization, clean code principles, and engineering real-world software that delivers tangible value.</p>
+<p>My tech journey encompasses building e-commerce platforms, AI productivity suites, static code analysis engines with AST parsing, and university-scale scheduling platforms.</p>
+<p><strong>Current Deep Dives:</strong> Next.js, Node.js microservices, Docker containerization, AWS cloud architecture, and System Design.</p>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <img src="assets/images/about.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="About Me Illustration" />
@@ -86,16 +86,16 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
       <img src="assets/images/skills.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Skills Illustration" />
     </td>
     <td width="65%" valign="middle" style="border: none;">
-      <div align="center">
-        <h4>💻 Languages</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,java,php,c&theme=dark" alt="Languages" /></a>
-        <h4>🎨 Frontend</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" alt="Frontend" /></a>
-        <h4>⚙️ Backend, Cloud & Database</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express,mysql,mongodb,aws&theme=dark" alt="Backend & Cloud" /></a>
-        <h4>🤖 AI, DevOps & Developer Tools</h4>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openai,docker,git,github,vscode,postman,netlify,vercel&theme=dark" alt="AI & Tools" /></a>
-      </div>
+<div align="center">
+<h4>💻 Languages</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,java,php,c&theme=dark" alt="Languages" /></a>
+<h4>🎨 Frontend</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite&theme=dark" alt="Frontend" /></a>
+<h4>⚙️ Backend, Cloud & Database</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express,mysql,mongodb,aws&theme=dark" alt="Backend & Cloud" /></a>
+<h4>🤖 AI, DevOps & Developer Tools</h4>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openai,docker,git,github,vscode,postman,netlify,vercel&theme=dark" alt="AI & Tools" /></a>
+</div>
     </td>
   </tr>
 </table>
@@ -321,18 +321,18 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
       <img src="assets/images/certifications.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Research Publication" />
     </td>
     <td width="65%" valign="middle" style="border: none; line-height: 1.6;">
-      <h3>🌐 Fourth International Conference on Computational Intelligence & Mathematical Applications (CIMA-26)</h3>
-      <p><strong>Organized by:</strong> SRM Institute of Science & Technology & AIMST University, Malaysia</p>
-      <p><strong>Paper Title:</strong> <em>"AI Code Understanding Platform Using AST-Based Static Analysis"</em></p>
-      <ul>
-        <li>Researched automated AST parsing mechanisms to map programmatic dependencies in polyglot codebases.</li>
-        <li>Implemented directed graph visualizations with NetworkX for interactive module tracing.</li>
-        <li>Awarded an official <strong>Certificate of Presentation</strong> for academic contribution to AI & Software Engineering.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Conference-CIMA--2026-8B5CF6?style=for-the-badge" alt="CIMA 2026" />
-        <img src="https://img.shields.io/badge/Category-Research_Paper-3B82F6?style=for-the-badge" alt="Research" />
-      </p>
+<h3>🌐 Fourth International Conference on Computational Intelligence & Mathematical Applications (CIMA-26)</h3>
+<p><strong>Organized by:</strong> SRM Institute of Science & Technology & AIMST University, Malaysia</p>
+<p><strong>Paper Title:</strong> <em>"AI Code Understanding Platform Using AST-Based Static Analysis"</em></p>
+<ul>
+<li>Researched automated AST parsing mechanisms to map programmatic dependencies in polyglot codebases.</li>
+<li>Implemented directed graph visualizations with NetworkX for interactive module tracing.</li>
+<li>Awarded an official <strong>Certificate of Presentation</strong> for academic contribution to AI & Software Engineering.</li>
+</ul>
+<p>
+<img src="https://img.shields.io/badge/Conference-CIMA--2026-8B5CF6?style=for-the-badge" alt="CIMA 2026" />
+<img src="https://img.shields.io/badge/Category-Research_Paper-3B82F6?style=for-the-badge" alt="Research" />
+</p>
     </td>
   </tr>
 </table>
@@ -344,12 +344,12 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
   <tr style="border: none;">
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
-      <ul>
-        <li>🥇 <strong>Good Performance Award — IndiWebPros Full Stack Internship (Aug 2026):</strong> Recognized for exceptional software engineering, team commitment, and high-quality capstone project delivery.</li>
-        <li>🎯 <strong>Outstanding Academic Performance Award:</strong> Attained a peak <strong>9.92 CGPA</strong> in Master of Computer Applications coursework at SRM IST.</li>
-        <li>🎤 <strong>International Conference Presenter (CIMA 2026):</strong> Presented cutting-edge research on AI-driven code analysis to international delegates.</li>
-        <li>🧠 <strong>AI & ML Adaptive Systems Seminar:</strong> Completed advanced research seminar on machine learning applications in adaptive learning systems and healthcare.</li>
-      </ul>
+<ul>
+<li>🥇 <strong>Good Performance Award — IndiWebPros Full Stack Internship (Aug 2026):</strong> Recognized for exceptional software engineering, team commitment, and high-quality capstone project delivery.</li>
+<li>🎯 <strong>Outstanding Academic Performance Award:</strong> Attained a peak <strong>9.92 CGPA</strong> in Master of Computer Applications coursework at SRM IST.</li>
+<li>🎤 <strong>International Conference Presenter (CIMA 2026):</strong> Presented cutting-edge research on AI-driven code analysis to international delegates.</li>
+<li>🧠 <strong>AI & ML Adaptive Systems Seminar:</strong> Completed advanced research seminar on machine learning applications in adaptive learning systems and healthcare.</li>
+</ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <img src="assets/images/portfolio_home%20page.png" width="160" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); object-fit: cover;" alt="Achievements" />
@@ -364,41 +364,37 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
 <table align="center" width="100%" style="border-collapse: collapse; border: none; margin: 10px 0;">
   <tr style="border: none;">
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
-      <h4>⚡ Full Stack Development Intern — IndiWebPros</h4>
-      <p><code>Jun 2026 – Aug 2026 · Virtual</code> &nbsp; <img src="https://img.shields.io/badge/Award-Good_Performance-success?style=flat-square" alt="Award" /></p>
-      <ul>
-        <li>Engineered a full-featured, responsive AJIO e-commerce web platform utilizing <strong>React.js</strong>, <strong>Firebase</strong>, and RESTful APIs.</li>
-        <li>Developed cart state management, checkout flows, coupon validation, product sorting, and user reviews.</li>
-        <li>Honored with the <em>Good Performance Award</em> for exemplary teamwork, technical excellence, and dedication.</li>
-      </ul>
-
-      <h4>☁️ AWS AI-Powered Cloud Engineer Intern — AICTE & EduSkills</h4>
-      <p><code>Apr 2026 – Jun 2026 · Virtual</code></p>
-      <ul>
-        <li>Configured scalable cloud infrastructure on <strong>AWS</strong> spanning EC2, S3, RDS, VPC, and AWS Lambda serverless functions.</li>
-        <li>Explored Generative AI pipelines and cloud-native machine learning deployment architectures.</li>
-      </ul>
-
-      <h4>💻 Web Development Intern — Sysslan IT Solutions</h4>
-      <p><code>Mar 2026 – May 2026 · Virtual</code></p>
-      <ul>
-        <li>Participated in end-to-end web engineering, frontend UI component design, and performance optimizations.</li>
-        <li>Formulated technical specifications and documentation for client-facing software modules.</li>
-      </ul>
-
-      <h4>🚀 Python Full Stack Developer Intern — AICTE</h4>
-      <p><code>Jan 2026 – Mar 2026 · Virtual</code></p>
-      <ul>
-        <li>Architected REST APIs and relational database schemas leveraging <strong>Python</strong>, <strong>Flask</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</li>
-        <li>Engineered backend business logic, validation filters, and secure data handling mechanisms.</li>
-      </ul>
-
-      <h4>💻 Web Development Intern — Oasis Technologies (CADPOINT)</h4>
-      <p><code>May 2024 – Jun 2024 · On-site</code></p>
-      <ul>
-        <li>Crafted cross-browser responsive web pages using <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>Bootstrap</strong>.</li>
-        <li>Streamlined component rendering and debugged UI bottlenecks for commercial client projects.</li>
-      </ul>
+<h4>⚡ Full Stack Development Intern — IndiWebPros</h4>
+<p><code>Jun 2026 – Aug 2026 · Virtual</code> &nbsp; <img src="https://img.shields.io/badge/Award-Good_Performance-success?style=flat-square" alt="Award" /></p>
+<ul>
+<li>Engineered a full-featured, responsive AJIO e-commerce web platform utilizing <strong>React.js</strong>, <strong>Firebase</strong>, and RESTful APIs.</li>
+<li>Developed cart state management, checkout flows, coupon validation, product sorting, and user reviews.</li>
+<li>Honored with the <em>Good Performance Award</em> for exemplary teamwork, technical excellence, and dedication.</li>
+</ul>
+<h4>☁️ AWS AI-Powered Cloud Engineer Intern — AICTE & EduSkills</h4>
+<p><code>Apr 2026 – Jun 2026 · Virtual</code></p>
+<ul>
+<li>Configured scalable cloud infrastructure on <strong>AWS</strong> spanning EC2, S3, RDS, VPC, and AWS Lambda serverless functions.</li>
+<li>Explored Generative AI pipelines and cloud-native machine learning deployment architectures.</li>
+</ul>
+<h4>💻 Web Development Intern — Sysslan IT Solutions</h4>
+<p><code>Mar 2026 – May 2026 · Virtual</code></p>
+<ul>
+<li>Participated in end-to-end web engineering, frontend UI component design, and performance optimizations.</li>
+<li>Formulated technical specifications and documentation for client-facing software modules.</li>
+</ul>
+<h4>🚀 Python Full Stack Developer Intern — AICTE</h4>
+<p><code>Jan 2026 – Mar 2026 · Virtual</code></p>
+<ul>
+<li>Architected REST APIs and relational database schemas leveraging <strong>Python</strong>, <strong>Flask</strong>, <strong>Django</strong>, and <strong>MySQL</strong>.</li>
+<li>Engineered backend business logic, validation filters, and secure data handling mechanisms.</li>
+</ul>
+<h4>💻 Web Development Intern — Oasis Technologies (CADPOINT)</h4>
+<p><code>May 2024 – Jun 2024 · On-site</code></p>
+<ul>
+<li>Crafted cross-browser responsive web pages using <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>Bootstrap</strong>.</li>
+<li>Streamlined component rendering and debugged UI bottlenecks for commercial client projects.</li>
+</ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
       <img src="assets/images/experience.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Experience Illustration" />
@@ -480,33 +476,23 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
 <div align="center">
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SugumaranJ-2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SugumaranJ-2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SugumaranJ-2022&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugumaranJ-2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SugumaranJ-2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SugumaranJ-2022&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/38BDF8/SugumaranJ-2022" alt="Sugumaran's Contribution Chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SugumaranJ-2022&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SugumaranJ-2022&theme=tokyonight" alt="Profile Summary Card" />
 </p>
 
 </div>
-
----
-
-## 🐍 Contribution Snake (live, animated)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SugumaranJ-2022/SugumaranJ-2022/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-> ⚙️ Enabled via GitHub Action in the profile repository.
 
 ---
 
@@ -529,20 +515,20 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
       <img src="assets/images/contact.jpg" width="180" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Contact Illustration" />
     </td>
     <td width="65%" valign="middle" style="border: none;" align="center">
-      <a href="https://github.com/SugumaranJ-2022">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://www.linkedin.com/in/sugumaran-j-a12879254/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:sugumaranjayabalan@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <a href="https://sugumaranj.netlify.app/">
-        <img src="https://img.shields.io/badge/Live_Portfolio-00C4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-      </a>
-      <br/><br/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Always+open+to+collaboration+%26+opportunities" alt="Footer Typing SVG" />
+<a href="https://github.com/SugumaranJ-2022">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/sugumaran-j-a12879254/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sugumaranjayabalan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://sugumaranj.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Portfolio-00C4FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together;Always+open+to+collaboration+%26+opportunities" alt="Footer Typing SVG" />
     </td>
   </tr>
 </table>
