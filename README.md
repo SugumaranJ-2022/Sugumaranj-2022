@@ -70,7 +70,7 @@
 ```yaml
 Name:        Sugumaran J
 Role:        Junior Full Stack / Web Developer
-Education:   MCA @ SRM Institute of Science and Technology (2025 – 2027) | CGPA: 9.92
+Education:   MCA @ SRM Institute of Science and Technology (2025 – 2027) | CGPA: 9.52
 Core Focus:  React.js | Python / Flask | RESTful APIs | AI & LLM Integrations | Cloud
 Portfolio:   https://sugumaranj.netlify.app
 Philosophy:  Analyze → Architect → Build → Optimize → Ship
@@ -346,7 +346,7 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
     <td width="65%" valign="middle" style="border: none; padding-right: 20px; line-height: 1.6;">
 <ul>
 <li>🥇 <strong>Good Performance Award — IndiWebPros Full Stack Internship (Aug 2026):</strong> Recognized for exceptional software engineering, team commitment, and high-quality capstone project delivery.</li>
-<li>🎯 <strong>Outstanding Academic Performance Award:</strong> Attained a peak <strong>9.92 CGPA</strong> in Master of Computer Applications coursework at SRM IST.</li>
+<li>🎯 <strong>Outstanding Academic Performance Award:</strong> Attained a peak <strong>9.52 CGPA</strong> in Master of Computer Applications coursework at SRM IST.</li>
 <li>🎤 <strong>International Conference Presenter (CIMA 2026):</strong> Presented cutting-edge research on AI-driven code analysis to international delegates.</li>
 <li>🧠 <strong>AI & ML Adaptive Systems Seminar:</strong> Completed advanced research seminar on machine learning applications in adaptive learning systems and healthcare.</li>
 </ul>
