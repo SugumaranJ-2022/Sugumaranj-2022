@@ -38,7 +38,7 @@
 <h3>👋 Welcome to my coding playground!</h3>
 <p>I am a <strong>Junior Full Stack & Web Developer</strong> and <strong>MCA Student</strong> at <strong>SRM Institute of Science and Technology</strong>. I build modern, resilient web applications that unite responsive frontends, scalable backends, and cutting-edge AI integrations.</p>
 <ul>
-<li>🎯 Maintained a stellar <strong>9.92 CGPA</strong> in MCA coursework</li>
+<li>🎯 Maintained a stellar <strong>9.52 CGPA</strong> in MCA coursework</li>
 <li>🚀 Engineered and shipped <strong>12+</strong> full-stack, frontend & AI applications</li>
 <li>📜 Published & presented research at the <strong>CIMA 2026 International Conference</strong></li>
 <li>🏆 Honored with the <strong>Good Performance Award</strong> during IndiWebPros Internship</li>
@@ -104,7 +104,7 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
 
 | Category | Skills & Technologies | Proficiency |
 |---|---|:---:|
-| **💻 Languages** | JavaScript (ES6+) · Python · Java · PHP · C · SQL | ⭐⭐⭐⭐⭐ |
+| **💻 Languages** | JavaScript (ES6+) · Python · Java  · C · SQL | ⭐⭐⭐⭐⭐ |
 | **🎨 Frontend** | React.js · Vite · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Responsive UI | ⭐⭐⭐⭐⭐ |
 | **⚙️ Backend** | Python Flask · Django · Node.js · Express · RESTful APIs · Auth/JWT | ⭐⭐⭐⭐☆ |
 | **🗄️ Databases** | MySQL · MongoDB · Schema Design · Data Modeling | ⭐⭐⭐⭐☆ |
