@@ -426,7 +426,7 @@ Philosophy:  Analyze → Architect → Build → Optimize → Ship
             <td><strong>MCA (Master of Computer Applications)</strong></td>
             <td>SRM Institute of Science & Technology (KTR)</td>
             <td><code>2025 – 2027</code></td>
-            <td><strong>CGPA 9.92</strong></td>
+            <td><strong>CGPA 9.52</strong></td>
           </tr>
           <tr>
             <td><strong>BCA (Bachelor of Computer Applications)</strong></td>
